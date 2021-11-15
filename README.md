@@ -1,8 +1,8 @@
-# Hi 👋, I'm Dylan!
+# Hi 👋, I'm Scripted!
 
 ## About Me 👨‍💻
 
-- 🔭 I’m currently working with [Astu Hosting!](https://github.com/AstuHosting)
+- 🔭 I’m currently working with [LegacyNodes!](https://dsc.gg/fr33host)
 
 - 🌱 I’m currently learning **C++**
 
